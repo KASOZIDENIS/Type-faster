@@ -1,0 +1,229 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Home Row - Left Hand",
+      "category": "Beginner",
+      "description": "Learn the left home row keys: A S D F",
+      "instructions": "Place your left fingers on A (pinky), S (ring), D (middle), F (index). Keep your fingers resting on these keys — this is the home position for your left hand.",
+      "target_wpm": 10,
+      "target_accuracy": 80,
+      "exercises": [
+        "aaa sss ddd fff aaa sss ddd fff",
+        "as sad dad fad ads",
+        "a sad lad a fad dad",
+        "add sad fads dads flask"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Home Row - Right Hand",
+      "category": "Beginner",
+      "description": "Learn the right home row keys: J K L ;",
+      "instructions": "Place your right fingers on J (index), K (middle), L (ring), ; (pinky). Together with the left hand, you now have all 8 home row keys covered.",
+      "target_wpm": 10,
+      "target_accuracy": 80,
+      "exercises": [
+        "jjj kkk lll ;;; jjj kkk lll ;;;",
+        "jk kl lj jkl klj",
+        "jkl; ;lkj jklj lkjl",
+        "jk lk jlk klj jkl"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Full Home Row",
+      "category": "Beginner",
+      "description": "Combine both hands on the home row: A S D F J K L ;",
+      "instructions": "Use both hands together. Left fingers on ASDF, right fingers on JKL;. Keep your wrists straight and fingers curved.",
+      "target_wpm": 12,
+      "target_accuracy": 82,
+      "exercises": [
+        "asdf jkl; asdf jkl; fdsa ;lkj",
+        "add ask fad lad fall flask",
+        "a sad dad shall fall all",
+        "fall lads flash glad ask flak"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Adding E and I",
+      "category": "Beginner",
+      "description": "Introduce E (left middle finger up) and I (right middle finger up)",
+      "instructions": "From D, reach your left middle finger up to E. From K, reach your right middle finger up to I. Return to home row after each keystroke.",
+      "target_wpm": 14,
+      "target_accuracy": 82,
+      "exercises": [
+        "de de de ki ki ki ded kik",
+        "side idea file like self feel",
+        "a life of ease slide ideas fill",
+        "fidelity ideal silk side leaf"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Adding T and N",
+      "category": "Beginner",
+      "description": "Introduce T (left index up) and N (right index down)",
+      "instructions": "From F, reach your left index finger up to T. From J, reach your right index finger down to N. These are very common letters!",
+      "target_wpm": 15,
+      "target_accuracy": 83,
+      "exercises": [
+        "tf tf nj nj tft njn",
+        "tin tan ten not net ten",
+        "and the not that tin tent",
+        "attend talent intentantine then"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Adding R and O",
+      "category": "Beginner",
+      "description": "Introduce R (left index up-left) and O (right ring finger up)",
+      "instructions": "From F, reach left index to R. From L, reach right ring finger up to O. Keep other fingers on home row.",
+      "target_wpm": 16,
+      "target_accuracy": 83,
+      "exercises": [
+        "rf rf ol ol rfr olo",
+        "for nor our or road lord",
+        "order floor error rotor oral",
+        "for real or nor is a total"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Top Row Introduction",
+      "category": "Intermediate",
+      "description": "Learn the full top row: Q W E R T Y U I O P",
+      "instructions": "The top row keys are reached by extending fingers upward from home row. Practice reaching each key and returning to home position.",
+      "target_wpm": 18,
+      "target_accuracy": 83,
+      "exercises": [
+        "qwerty uiop qwerty uiop",
+        "with your type write power",
+        "people quiet property report tower",
+        "we were quite proper you wrote"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Bottom Row Introduction",
+      "category": "Intermediate",
+      "description": "Learn the bottom row: Z X C V B N M",
+      "instructions": "Bottom row keys are reached by curling fingers downward from home row. Z with left pinky, X with left ring, C with left middle, V and B with left index.",
+      "target_wpm": 18,
+      "target_accuracy": 83,
+      "exercises": [
+        "zxcv bnm zxcv bnm",
+        "come back move next box calm",
+        "combine mix combine brave complex",
+        "zoom back cave venom maximum"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Common Words",
+      "category": "Intermediate",
+      "description": "Practice the most common English words",
+      "instructions": "Type the most frequently used English words. Focus on rhythm and accuracy over speed.",
+      "target_wpm": 20,
+      "target_accuracy": 85,
+      "exercises": [
+        "the and to a of it is in that was",
+        "he she for on are with as at his",
+        "they be this from had not but what",
+        "all were when there can an said each"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Capital Letters",
+      "category": "Intermediate",
+      "description": "Practice using the Shift key for capital letters",
+      "instructions": "Use the opposite hand's Shift key for capitals. Left Shift for right-hand keys, Right Shift for left-hand keys. Keep your pinky on Shift and return to home row.",
+      "target_wpm": 20,
+      "target_accuracy": 85,
+      "exercises": [
+        "The And A Of In That Was For",
+        "Alice Bob Carol Dave Eve Frank",
+        "London Paris Tokyo New York Rome",
+        "The quick brown fox jumps high"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Numbers Row",
+      "category": "Intermediate",
+      "description": "Practice typing numbers 1 through 0",
+      "instructions": "Numbers are typed with the same finger as the key below them, stretching upward from the top row. Practice reaching each number and returning to home position.",
+      "target_wpm": 18,
+      "target_accuracy": 82,
+      "exercises": [
+        "123 456 789 0 1234 5678 90",
+        "the 1st and 2nd of 10 items",
+        "add 42 and 58 to get 100",
+        "room 304 floor 12 exit 7"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Punctuation",
+      "category": "Advanced",
+      "description": "Master common punctuation: . , ! ? : ;",
+      "instructions": "Punctuation marks are essential for proper sentences. Use your right pinky for most punctuation. Take care with Shift for ! ? :",
+      "target_wpm": 22,
+      "target_accuracy": 85,
+      "exercises": [
+        "Hello, world! How are you?",
+        "Wait: stop, look, and listen.",
+        "Yes! No. Maybe? Certainly!",
+        "Run, jump, climb; swim, dive, fly."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Full Sentences",
+      "category": "Advanced",
+      "description": "Type complete sentences with all keys",
+      "instructions": "Combine everything you have learned. Focus on maintaining a steady rhythm. Speed will come naturally with practice.",
+      "target_wpm": 25,
+      "target_accuracy": 88,
+      "exercises": [
+        "The quick brown fox jumps over the lazy dog.",
+        "Pack my box with five dozen liquor jugs.",
+        "How vexingly quick daft zebras jump.",
+        "The five boxing wizards jump quickly."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Speed Drill - Short Words",
+      "category": "Advanced",
+      "description": "Build speed with short, common words",
+      "instructions": "Type as fast as you can while maintaining accuracy. Short words let you develop a rapid typing rhythm.",
+      "target_wpm": 35,
+      "target_accuracy": 90,
+      "exercises": [
+        "the and for are but not you all any can",
+        "had her was one our out day get has him",
+        "his how man new now old see two way who",
+        "did its let put say she too use may end"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Speed Drill - Paragraphs",
+      "category": "Advanced",
+      "description": "Type full paragraphs to build sustained speed",
+      "instructions": "Maintain your speed and accuracy across longer text. Keep a steady rhythm without looking at the keyboard.",
+      "target_wpm": 40,
+      "target_accuracy": 90,
+      "exercises": [
+        "Practice makes perfect when it comes to typing. The more you type, the faster and more accurate you will become over time.",
+        "Touch typing is a method where you use all ten fingers and do not look at the keyboard while typing. It takes time to learn but pays off greatly.",
+        "The best typists can reach speeds of over 100 words per minute. They achieve this through years of consistent daily practice and focus.",
+        "Learning to type without looking at the keys is a skill that will serve you for the rest of your life. Start slow and build up speed gradually."
+      ]
+    }
+  ]
+}
